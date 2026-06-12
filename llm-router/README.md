@@ -1,6 +1,6 @@
 # LLM-роутер с fallback
 
-Companion-код к статье **«Пять LLM-провайдеров через один openai-клиент»** (ссылка на статью добавится после публикации).
+Companion-код к статье **[«Пять LLM-провайдеров через один openai-клиент»](https://habr.com/ru/articles/1046902/)** на Habr.
 
 Что показывает:
 - пять провайдеров (Groq, Mistral, OpenAI, DeepSeek, xAI) через **один** клиент `openai` — отличается только `baseURL`;
