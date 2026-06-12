@@ -1,0 +1,18 @@
+{
+  "name": "wiin-llm-router-example",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Минимальный LLM-роутер с fallback — companion-код к статье wiin.agency",
+  "scripts": {
+    "start": "tsx example.ts"
+  },
+  "dependencies": {
+    "openai": "^4.77.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  },
+  "license": "MIT"
+}
